@@ -1,0 +1,10 @@
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.csproj.AssemblyReference.cache
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.cache
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.csproj.CoreCompileInputs.cache
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\Yeliz\Desktop\pythonogreniyorum\sinema\sinema\obj\Debug\sinema.pdb
